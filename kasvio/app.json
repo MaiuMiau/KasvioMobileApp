@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "native_vaihtis",
+    "description": "This is Maijus kasviApp.",
+    "slug": "native_vaihtis",
+    "privacy": "public",
+    "sdkVersion": "30.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo3.png",
+    "splash": {
+      "image": "./assets/lataus.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
